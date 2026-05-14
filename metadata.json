@@ -1,0 +1,6 @@
+{
+  "name": "Tablero de Vacunación MINSA",
+  "description": "Dashboard interactivo para el reporte y análisis de vacunas en niños de 0 a 36 meses, filtrable por edad y tipo de vacuna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
